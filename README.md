@@ -6,7 +6,7 @@ This is a project for termux, have fun!!!
       
  use: 
 
-git clone https://github.com/CODEreaper177/HybridHack.sh
+git clone https://github.com/CODEreaper177/badLink.sh
       
 
        CD HybridHack
